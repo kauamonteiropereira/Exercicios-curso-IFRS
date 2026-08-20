@@ -1,0 +1,53 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="Jecr419c_ANpgiicebN6">
+    <mxGraphModel dx="1822" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="awPMxXcomxZsRaIot2vV-4" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="awPMxXcomxZsRaIot2vV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="270" x="335" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-8" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="awPMxXcomxZsRaIot2vV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-5" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Salário Base" vertex="1">
+          <mxGeometry height="60" width="340" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-11" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="awPMxXcomxZsRaIot2vV-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-7" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Gratificação" vertex="1">
+          <mxGeometry height="60" width="280" x="10" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-13" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-9" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Imposto" vertex="1">
+          <mxGeometry height="60" width="280" x="10" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-17" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="awPMxXcomxZsRaIot2vV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Cálculo do trabalho final" vertex="1">
+          <mxGeometry height="70" width="300" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-15" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.15000000000000002;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Salário final" vertex="1">
+          <mxGeometry height="60" width="270" x="360" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Final" vertex="1">
+          <mxGeometry height="100" width="270" x="360" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="awPMxXcomxZsRaIot2vV-19" edge="1" parent="1" source="awPMxXcomxZsRaIot2vV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="awPMxXcomxZsRaIot2vV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="WyjzjGqXZfPva6muA_8K">
+    <mxGraphModel dx="860" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-3" edge="1" parent="1" source="zhcMKG5LJWnIybM1-pEl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zhcMKG5LJWnIybM1-pEl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="INICIO" vertex="1">
+          <mxGeometry height="100" width="230" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-6" edge="1" parent="1" source="zhcMKG5LJWnIybM1-pEl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zhcMKG5LJWnIybM1-pEl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="DIGITE O VALOR DO PRODUTO:" vertex="1">
+          <mxGeometry height="60" width="270" x="420" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-9" edge="1" parent="1" source="zhcMKG5LJWnIybM1-pEl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zhcMKG5LJWnIybM1-pEl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="PROCESSO [DESCONTO 10 %]" vertex="1">
+          <mxGeometry height="100" width="200" x="455" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="RESULTADO" vertex="1">
+          <mxGeometry height="60" width="270" x="420" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="FIM" vertex="1">
+          <mxGeometry height="100" width="230" x="440" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="zhcMKG5LJWnIybM1-pEl-12" edge="1" parent="1" source="zhcMKG5LJWnIybM1-pEl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="zhcMKG5LJWnIybM1-pEl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,49 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="z19Ic2xkFVl_gDL0LLTB">
+    <mxGraphModel dx="846" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-3" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n9XSunM6wwhpj4Mz2h1v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="100" x="450" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-5" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n9XSunM6wwhpj4Mz2h1v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Digite a usa primeira nota: (N1)" vertex="1">
+          <mxGeometry height="60" width="245" x="377.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-7" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n9XSunM6wwhpj4Mz2h1v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Digite a usa segunda nota: (N2)" vertex="1">
+          <mxGeometry height="60" width="245" x="377.5" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-9" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n9XSunM6wwhpj4Mz2h1v-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Digite a usa terceira nota: (N3)" vertex="1">
+          <mxGeometry height="60" width="245" x="377.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-12" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n9XSunM6wwhpj4Mz2h1v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Calculo" vertex="1">
+          <mxGeometry height="60" width="190" x="405" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-14" edge="1" parent="1" source="n9XSunM6wwhpj4Mz2h1v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n9XSunM6wwhpj4Mz2h1v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-11" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Resultado" vertex="1">
+          <mxGeometry height="60" width="245" x="377.5" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="n9XSunM6wwhpj4Mz2h1v-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="100" x="450" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
