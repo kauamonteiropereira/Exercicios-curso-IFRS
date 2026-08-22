@@ -1,0 +1,43 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="Eg1ghcgiBMzvfyxJ1six">
+    <mxGraphModel dx="846" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QiGp5YlMbMiNweR7p96E-7" edge="1" parent="1" source="QiGp5YlMbMiNweR7p96E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QiGp5YlMbMiNweR7p96E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-8" edge="1" parent="1" source="QiGp5YlMbMiNweR7p96E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QiGp5YlMbMiNweR7p96E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Informe o primeiro valor numérico N1" vertex="1">
+          <mxGeometry height="50" width="160" x="320" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-10" edge="1" parent="1" source="QiGp5YlMbMiNweR7p96E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QiGp5YlMbMiNweR7p96E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Informe o segundo valor numérico N2" vertex="1">
+          <mxGeometry height="50" width="160" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-15" edge="1" parent="1" source="QiGp5YlMbMiNweR7p96E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QiGp5YlMbMiNweR7p96E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Informe o terceiro valor numérido N3" vertex="1">
+          <mxGeometry height="50" width="160" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-17" edge="1" parent="1" source="QiGp5YlMbMiNweR7p96E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QiGp5YlMbMiNweR7p96E-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Processo" vertex="1">
+          <mxGeometry height="100" width="180" x="310" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QiGp5YlMbMiNweR7p96E-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
